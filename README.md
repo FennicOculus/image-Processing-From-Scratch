@@ -55,3 +55,44 @@ Use case "Laplace filter"
 
 ![threshold](images/Sobel%20Filter.png)
 
+### Transpose
+
+![threshold](images/Transpose.png)
+
+### Interpolation
+
+#### Nearest neighbor interpolation
+
+![threshold](images/Nearest%20neighbor%20interpolation.png)
+
+#### Bilinear interpolation
+
+![threshold](images/Nearest%20neighbor%20interpolation.png)
+
+### Dilatation
+
+![threshold](images/Dilatation.png)
+
+![threshold](images/Dilatation%20Thresholded.png)
+
+### Erosion
+
+![threshold](images/Erosion.png)
+
+![threshold](images/Erosion%20Thresholded.png)
+
+### Open
+
+![threshold](images/Open.png)
+
+![threshold](images/Open%20Thresholded.png)
+
+### Close
+
+![threshold](images/Close.png)
+
+![threshold](images/Close%20Thresholded.png)
+
+### Morphological Gradient
+
+![threshold](images/Morphological%20Gradient.png)
